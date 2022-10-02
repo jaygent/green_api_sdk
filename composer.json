@@ -6,7 +6,8 @@
   "version": "1.0.0",
   "authors": [
     {
-      "name": "jaygent"
+      "name": "jaygent",
+      "email": "jaygent@mail.ru"
     }
   ],
   "autoload": {
