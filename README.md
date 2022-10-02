@@ -5,7 +5,6 @@ This library makes work with green-api.com easier
 # Installation
 
 Just download green_api.php or use Composer:
-
 ```
 composer require jaygent/green_api
 ```

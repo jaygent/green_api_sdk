@@ -12,7 +12,6 @@ class Green_api
     protected  $url = 'https://api.green-api.com';
     protected $instance_id = '';
 
-
     /**
      * @param string $method
      * @return string
