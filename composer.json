@@ -12,6 +12,7 @@
   "autoload": {
     "classmap": ["green_api.php"]
   },
+  "minimum-stability": "dev",
   "require": {
     "php": ">=7.1.0"
   }
