@@ -1,7 +1,7 @@
 {
   "name": "jaygent/green_api",
-  "description": "description",
-  "minimum-stability": "stable",
+  "description": "Simple middleware to work with Green-api.com",
+  "type": "library",
   "license": "GPL-2.0-or-later",
   "version": "1.0.0",
   "authors": [
